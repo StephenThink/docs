@@ -9,7 +9,7 @@ options:
     name: max_items
     type: integer
     description: |
-      The maximum number of items that may be selected. Setting this to `1` will change the UI to a select dropdwon.
+      The maximum number of items that may be selected. Setting this to `1` will change the UI to a select dropdown.
   -
     name: mode
     type: string
